@@ -1,0 +1,80 @@
+Qual a diferença entre cliente e servidor para internet?
+
+A diferença entre cliente e servidor para internet é a seguinte: o servidor é o computador 
+configurado para oferecer algum tipo de serviço na rede, enquanto o cliente é o computador 
+que utiliza o serviço oferecido pelo servidor.
+
+Servidor: Servidor é o computador no qual foi configurado em uma rede para oferecer algum tipo de serviço ou ajuda.
+Cliente: é o computador que está do outro lado, que foi configurado para utilizar o serviço que 
+é oferecido pelo servidor.
+
+Neste caso, podemos afirmar então que o computador servidor é aquele que oferece um serviço e o computador cliente
+é aquele que se ocupa de um serviço. Por exemplo, ao acessarmos uma página da web, a mesma é disponibilizada a
+partir de um computador servidor.
+
+
+
+
+Para que serve html, css e javascript?
+
+HTML: HTML não é uma linguagem de programação; é uma linguagem de marcação, usada para definir a estrutura do seu 
+conteúdo. HTML consiste de uma série de elementos, que você usa para delimitar ou agrupar diferentes partes 
+do conteúdo para que ele apareça ou atue de determinada maneira. As tags anexas podem transformar uma palavra 
+ou imagem num hiperlink, pode colocar palavras em itálico, pode aumentar ou diminuir a fonte e assim por diante.
+
+CSS: CSS é chamado de linguagem Cascading Style Sheet e é usado para estilizar elementos escritos em uma linguagem 
+de marcação como HTML. O CSS separa o conteúdo da representação visual do site. Pense  na decoração da sua página. 
+Utilizando o CSS é possível alterar a cor do texto e do fundo, fonte e espaçamento entre parágrafos. Também pode 
+criar tabelas, usar variações de layouts, ajustar imagens para suas respectivas telas e assim por diante.
+
+Javascript: O JavaScript é uma linguagem muito versátil, com uma comunidade que cresce a cada dia, e suas 
+aplicações também, o que a torna uma escolha popular para empresas com equipe reduzida: JavaScript, uma 
+linguagem para governar tudo (one language to rule them all). Você provavelmente vai escutar muitas verdades 
+brincadeiras de que a cada 5 minutos nasce uma biblioteca feita em JavaScript nova…
+
+
+
+Qual a diferença entre java e javascript?
+
+Você ainda pode se perguntar qual a diferença entre Java e JavaScript.
+
+Apesar de Java e JavaScript serem linguagens de programação orientadas a objeto, ambas possuem diferentes 
+campos de atuação e portanto, bastante diferentes.
+Java é uma linguagem de programação que entrou em uso no ano de 1995, desenvolvido pela Sun Microsystems que 
+mais tarde, foi adquirida pela Oracle.As aplicações desenvolvidas em Java precisam ser executadas por uma máquina 
+virtual chamada JVM. Isso possibilita que aplicações Java possam funcionar em diversos sistemas operacionais e 
+dispositivos diferentes.
+Já o JavaScript é utilizado apenas para criar páginas HTML dinâmicas.
+
+
+
+
+Quem criou javascript?
+
+Javascript surgiu em 1995 e foi criada por Brendan Eich, a pedido da empresa Netscape (um dos primeiros navegadores) 
+com o objetivo de validar formulários HTML. Como os browsers ainda eram estéticos, essa linguagem foi revolucionária 
+para a época.
+Em 1996, a Microsoft criou uma linguagem idêntica para ser usada no Internet Explorer. A Netscape então regularizou 
+a linguagem através da organização internacional ECMA, companhia especializada em padrões e regras. Com o tempo, 
+a linguagem foi sendo modificada e hoje em dia é “Client-side”, ou seja o que ocorre no dispositivo do usuário final,
+o cliente. Isso inclui o que o usuário vê, como texto, imagens e o restante da interface, além de todas as ações que
+um aplicativo executa no navegador do usuário.
+
+(NETSCAPE é um dos primeiros navegadores de internet e desempenhou um papel fundamental na população web.
+
+
+
+O que é Ecmascript ? o que ele tem a ver com javascript ?
+
+ECMAScript é uma especificação de linguagem de scripts padronizada pelo ECMA-262.
+As linguagens JavaScript, JScript e ActionScript seguem a ECMAScript, porém cada uma provê recursos adicionais 
+não descritos na especificação ECMA. O ECMAScript é amplamente adotado como a linguagem principal para programação 
+de páginas web interativas. Ele foi desenvolvido pela Ecma International, uma associação internacional de padrões.
+
+(ECMA262:Na web ela é famosa por ser a organização que mantém a especificação ECMA-262 (também conhecida por ECMAScript)
+que é a especificação núcleo para a linguagem JavaScript.)
+
+
+O que eles tem a ver: ECMAScript é uma especificação de uma linguagem de script e o Javascript é a implementação 
+dessa especificação. O ECMAScript existe pois cada browser, seja chrome, firefox ou qualquer outro, possui diferentes
+implementações para que você possa rodar seu código Javascript, mas todos devem seguir a mesma especificação.
